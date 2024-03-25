@@ -5,9 +5,10 @@ This Trello clone project is built using React and Tailwind CSS. It allows users
 
 ## Features
 
-- Create tasks with customizable names.
-- Organize tasks into different sections: To-do, In Progress, and Done.
-- Drag and drop tasks between sections to update their status.
+- Create tickets with customizable names.
+- Delete tickets.
+- Organize tickets into different sections: To-do, In Progress, and Done.
+- Drag and drop tickets between sections to update their status.
 
 ## Libraries Used
 
