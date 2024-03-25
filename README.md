@@ -31,4 +31,4 @@ This project was developed with the guidance and support of [Aladin Bensassi](#)
 
 ## Local Storage (Optional)
 
-If you want to persist tasks across sessions, you can uncomment the localStorage functionality in the `CreateTask.jsx` and `ListTask.jsx` files.
+If you want to persist tickets across sessions, you can uncomment the localStorage functionality in the `CreateTask.jsx` and `ListTask.jsx` files.
